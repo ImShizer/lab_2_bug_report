@@ -11,7 +11,7 @@ import ua.opnu.labwork2.category.persistence.Category;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2026-06-09T22:02:23+0300",
+    date = "2026-10-08T21:10:22+0300",
     comments = "version: 1.5.5.Final, compiler: javac, environment: Java 25.0.1 (Oracle Corporation)"
 )
 @Component
